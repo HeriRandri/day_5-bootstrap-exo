@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    background-color: rgb(113, 49, 147);
+    width: 100%;
+}
+
+.btn{
+    position: relative;
+    left: 90px;
+}
+
+.card-img-top{
+    margin:30px 60px;
+    width: 200px;
+    height: 200px;
+}
+
+.btn-primary{
+    background-color: blueviolet;
+    border-radius: 30px;
+}
+
